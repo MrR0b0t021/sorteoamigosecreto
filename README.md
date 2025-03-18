@@ -18,9 +18,6 @@ Este proyecto es una aplicación web simple que permite agregar nombres de amigo
 - **CSS**: Para el diseño y la presentación.
 - **JavaScript**: Para la lógica del sorteo y la manipulación del DOM.
 
-## Contribuciones
-Las contribuciones son bienvenidas. Puedes hacer un fork del repositorio, realizar tus cambios y enviar un pull request.
-
 ## Autor
 MrR0b0t021
 JuanCMS
